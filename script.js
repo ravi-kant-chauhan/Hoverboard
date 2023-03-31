@@ -10,6 +10,7 @@ for(let i = 0; i < SQUARES; i++) {
     square.addEventListener('mouseout', () => removeColor(square))
     container.appendChild(square)
 }
+
 function setColor(element) {
     const color = getRandomColor()
     element.style.background = color
