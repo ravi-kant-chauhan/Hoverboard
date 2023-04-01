@@ -1,3 +1,3 @@
 # Hoverboard
 
-A project based on HTML, CSS and Javascript
+A project based on Html, Css and Javascript
